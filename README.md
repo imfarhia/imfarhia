@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/brands.min.css" integrity="sha512-WxpJXPm/Is1a/dzEdhdaoajpgizHQimaLGL/QqUIAjIihlQqlPQb1V9vkGs9+VzXD7rgI6O+UsSKl4u5K36Ydw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<img src = "./img/mario-coding.gif" height=500 width=1080>
+<img src = "./mario-coding.gif" height=500 width=1080>
 <!-- <img src = "https://github.com/imnaimur/pudding-paradise/blob/main/img/hacker.jpeg"> -->
 
 [![](https://visitcount.itsvg.in/api?id=imnaimur&icon=0&color=0)](https://visitcount.itsvg.in)
